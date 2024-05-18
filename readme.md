@@ -22,3 +22,5 @@ Job Title, Location, Hire Date, Termination Date, Location City, Location State,
 11. What is the tenure distribution for each department?
 
 ## Summary of analysis
+- there are more male employees than female.
+- the white race is more dominant while the Hawaiian and American indian are the least dominant.  
